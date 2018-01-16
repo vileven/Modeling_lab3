@@ -5,5 +5,4 @@
 * nodejs
 
 ## Как запустить:
-* дискретный случай:  `npm run digit`
-* аналоговый: `npm run analog`
+* `npm start`
