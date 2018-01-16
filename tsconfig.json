@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"removeComments": false,
+		"module": "commonjs",
+		"target": "es5",
+		"allowSyntheticDefaultImports": true,
+		"moduleResolution": "node",
+		"experimentalDecorators": true,
+		"sourceMap": true,
+		"inlineSources": true,
+		"typeRoots": [
+			"node_modules/@types"
+		],
+		"lib": ["dom", "ES2015", "ES2016", "ES2017"]
+	}
+}
